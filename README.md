@@ -3,163 +3,163 @@ A place for gathering Internet slangs
 
 LGTM is "Looks Good To Me"
 
-- 2G	Too Good
-- 2G2BT	Too Good To Be True
-- AIGF	All In Good Fun
-- ALV	Asta La Vista, goodbye
-- BAD	Good
-- BALLIN	Playing basketball & Living the good life
-- BEAST	Person/thing that is good, awesome
-- BEASTLY	Being good at something, cool
-- BIDDIE	Good looking girl
-- BIG	Great, really good
-- BOMB	Something really bad & Something really good
-- BOOMTING	Good looking girl
-- BUFF	Good Looking
-- BUTTER FACE	Girl who is good looking except for her face
-- CHAMPION	Good, great
-- CHAO	Goodbye (Spanish)
-- CHEERIO	Goodbye
-- CHIO	Sexy, good looking, girl
-- CHONG	Good looking, attractive, cute
-- CHOONG	Good looking, buff
-- CHUNG	Good looking, buff
-- CRAIC	Good times/gossip/music/drinking (Irish)
-- CUSHTI	Good, great
-- DANK	Very potent marijuana & Incredibly good, awesome
-- DECENT	Good, awesome
-- DUCES	Goodbye
-- FIG JAM	<-- Click To View
-- FIRME	Cool, good, nice
-- FIT	Good lokking, hot, sexy
-- FMCG	Fast Moving Consumer Goods
-- FRESH	Very good, cool
-- G'DAY	Good Day, hello
-- G1	Good One & Gone
-- G2K	Good To Know
-- G4U	Good For You
-- G9	Good Night
-- GBFN	Goodbye for Now
-- GBML	Good Bye My Love
-- GC	Good Contition
-- GCF	Good Clean Fun
-- GDGD	Good Good
-- GE	Good Evening
-- GEWD	Good
-- GFP	Good For Pics
-- GFU	Good For You
-- GFY	Good For You
-- GG	Good Game
-- GGA	Good Game All
-- GGBB	Good Game Bye Bye
-- GGG	Good, Giving, and Game (in bed)
-- GGNORE	Good Game No Rematch
-- GGS	Good Games
-- GGWP	Good Game, Well Played
-- GHD	Good Hair Day
-- GJ	Good Job
-- GK	Good Kid
-- GL	Good Luck & Good Looking
-- GL HF	Good Luck, Have Fun
-- GLA	Good Luck All
-- GLD	Good Life Decision
-- GLHF	Good luck, have fun. Used in CS matches
-- GLIRL	Good Luck In Real Life
-- GLOTR	Good Luck On The Rebuild
-- GLTA	Good Luck to All
-- GLTY	Good Luck To You
-- GLUCK	Good Luck
-- GLWS	Good Luck With Sale
-- GLWT	Good Luck With That
-- GMA	Good Morning, America
-- GMY	Good Man Yourself
-- GN	Good Night
-- GN8	Good Night
-- GNE	Good Night and Everything
-- GNFB	Good Night Facebook
-- GNITE	Good Night
-- GNSD	Good Night, Sweet Dreams
-- GNSTDLTBBB	Good Night Sleep Tight Don't Let the Bed Bugs Bite
-- GOD SPEED	Good luck
-- GOU	Good On You
-- GSOH	Good Sense Of Humor
-- GTBB	Good To Be Back
-- GTHBA	Good Times Had By All
-- GTK	Good To Know
-- GTS	Good Times
-- GTSY	Good To See You
-- GTZ	Good Times
-- GUCCI	Good, awesome, high quality
-- GUD	Good
-- GUUD	Good
-- GV	Good Vibes
-- GW	Good Work
-- HAGD	Have A Good Day
-- HAGE	Have A Good Evening
-- HAGL	Have A Good Life
-- HAGN	Have A Good Night
-- HAGO	Have A Good One
-- HEAVY	Awesome, good & Serious, intense
-- HECTIC	Cool, good
-- HFGL	Have Fun, Good Luck
-- HGV	Heavy Goods Vehicle
-- HOOROO	Goodbye
-- HOOT	Good time & Funny person
-- HOT	Very good looking, sexy
-- HYNA	Good looking girl (Hispanic)
-- HYUK	Lose, despite having a good lead
-- IAG	It's All Good
-- IDFG	I Don't Feel Good
-- IRIE	Feeling good, alright
-- KILLA	Good quality weed
-- KOSHER	Good, OK
-- KUTGW	Keep Up The Good Work
-- LATERS	See you later, goodbye
-- LATERZ	See you later, goodbye
-- LGFB	Looks Good From Behind
-- LOUD	Good quality marijuana
-- MUNG	Mash Until No Good
-- NAGL	Not A Good Look
-- NANG	Cool, wicked, good
-- NATTY	Natural Light beer & Smart, good, cool
-- NBG	Nasty But Good
-- NG	No Good
-- NITE	Good Night
-- NOMMY	Good, delicious
-- ONE	One Love, goodbye
-- PDG	Pretty Damn Good
-- PEACE	Goodbye
-- PEACE OUT	Goodbye
-- PENG	Good looking person
-- PGP	Pretty Good Privacy (encryption)
-- POOL SHARK	Good pool player
-- PRAWN	Girl who is good looking except for her face
-- PRO BONO	For (public) good (Latin)
-- SAFE	Something or someone good
-- SAYONARA	Goodbye (Japanese)
-- SFSG	So Far So Good
-- SG2M	Sounds Good To Me
-- SGTM	Sounds Good To Me
-- SKUX	A guy who's good with women
-- SLAN	Goodbye
-- SO SO	Neither good nor bad, average
-- SOUND	Cool, awesome, good
-- STUNNER	Good looking person
-- SWOLE	Muscular, in good shape
-- TAGL	There's a good lad
-- TASTY	Good looking & Cool, awesome
-- TATA	Goodbye
-- TDG	Too Damn Good & Three Days Grace (band)
-- TG	Thank God & Transgender & Too Good
-- TGTBT	Too Good To Be True
-- TIDY	Cool, good
-- TOODLE	Goodbye, toodle-pip
-- TOOTLES	See you later, goodbye
-- TOUCHE	Said when admitting opponent has made a good point
-- VG	Video Game & Very Good
-- VGC	Very Good Condition
-- VGG	Very Good Game
-- VGL	Very Good Looking
-- WENG	Good looking
-- YRG	You Are Good!
-- YUM	Said when something tastes good or is attractive
+- 2G:	Too Good
+- 2G2BT:	Too Good To Be True
+- AIGF:	All In Good Fun
+- ALV:	Asta La Vista, goodbye
+- BAD:	Good
+- BALLIN:	Playing basketball & Living the good life
+- BEAST:	Person/thing that is good, awesome
+- BEASTLY:	Being good at something, cool
+- BIDDIE:	Good looking girl
+- BIG:	Great, really good
+- BOMB:	Something really bad & Something really good
+- BOOMTING:	Good looking girl
+- BUFF:	Good Looking
+- BUTTER: FACE	Girl who is good looking except for her face
+- CHAMPION:	Good, great
+- CHAO:	Goodbye (Spanish)
+- CHEERIO:	Goodbye
+- CHIO:	Sexy, good looking, girl
+- CHONG:	Good looking, attractive, cute
+- CHOONG:	Good looking, buff
+- CHUNG:	Good looking, buff
+- CRAIC:	Good times/gossip/music/drinking (Irish)
+- CUSHTI:	Good, great
+- DANK:	Very potent marijuana & Incredibly good, awesome
+- DECENT:	Good, awesome
+- DUCES:	Goodbye
+- FIG: JAM	<-- Click: To View
+- FIRME:	Cool, good, nice
+- FIT:	Good lokking, hot, sexy
+- FMCG:	Fast Moving Consumer Goods
+- FRESH:	Very good, cool
+- G:'DAY	Good Day, hello
+- G1:	Good One & Gone
+- G2K:	Good To Know
+- G4U:	Good For You
+- G9:	Good Night
+- GBFN:	Goodbye for Now
+- GBML:	Good Bye My Love
+- GC:	Good Contition
+- GCF:	Good Clean Fun
+- GDGD:	Good Good
+- GE:	Good Evening
+- GEWD:	Good
+- GFP:	Good For Pics
+- GFU:	Good For You
+- GFY:	Good For You
+- GG:	Good Game
+- GGA:	Good Game All
+- GGBB:	Good Game Bye Bye
+- GGG:	Good, Giving, and Game (in bed)
+- GGNORE:	Good Game No Rematch
+- GGS:	Good Games
+- GGWP:	Good Game, Well Played
+- GHD:	Good Hair Day
+- GJ:	Good Job
+- GK:	Good Kid
+- GL:	Good Luck & Good Looking
+- GL: HF	Good Luck, Have Fun
+- GLA:	Good Luck All
+- GLD:	Good Life Decision
+- GLHF:	Good luck, have fun. Used in CS matches
+- GLIRL:	Good Luck In Real Life
+- GLOTR:	Good Luck On The Rebuild
+- GLTA:	Good Luck to All
+- GLTY:	Good Luck To You
+- GLUCK:	Good Luck
+- GLWS:	Good Luck With Sale
+- GLWT:	Good Luck With That
+- GMA:	Good Morning, America
+- GMY:	Good Man Yourself
+- GN:	Good Night
+- GN8:	Good Night
+- GNE:	Good Night and Everything
+- GNFB:	Good Night Facebook
+- GNITE:	Good Night
+- GNSD:	Good Night, Sweet Dreams
+- GNSTDLTBBB:	Good Night Sleep Tight Don't Let the Bed Bugs Bite
+- GOD: SPEED	Good luck
+- GOU:	Good On You
+- GSOH:	Good Sense Of Humor
+- GTBB:	Good To Be Back
+- GTHBA:	Good Times Had By All
+- GTK:	Good To Know
+- GTS:	Good Times
+- GTSY:	Good To See You
+- GTZ:	Good Times
+- GUCCI:	Good, awesome, high quality
+- GUD:	Good
+- GUUD:	Good
+- GV:	Good Vibes
+- GW:	Good Work
+- HAGD:	Have A Good Day
+- HAGE:	Have A Good Evening
+- HAGL:	Have A Good Life
+- HAGN:	Have A Good Night
+- HAGO:	Have A Good One
+- HEAVY:	Awesome, good & Serious, intense
+- HECTIC:	Cool, good
+- HFGL:	Have Fun, Good Luck
+- HGV:	Heavy Goods Vehicle
+- HOOROO:	Goodbye
+- HOOT:	Good time & Funny person
+- HOT:	Very good looking, sexy
+- HYNA:	Good looking girl (Hispanic)
+- HYUK:	Lose, despite having a good lead
+- IAG:	It's All Good
+- IDFG:	I Don't Feel Good
+- IRIE:	Feeling good, alright
+- KILLA:	Good quality weed
+- KOSHER:	Good, OK
+- KUTGW:	Keep Up The Good Work
+- LATERS:	See you later, goodbye
+- LATERZ:	See you later, goodbye
+- LGFB:	Looks Good From Behind
+- LOUD:	Good quality marijuana
+- MUNG:	Mash Until No Good
+- NAGL:	Not A Good Look
+- NANG:	Cool, wicked, good
+- NATTY:	Natural Light beer & Smart, good, cool
+- NBG:	Nasty But Good
+- NG:	No Good
+- NITE:	Good Night
+- NOMMY:	Good, delicious
+- ONE:	One Love, goodbye
+- PDG:	Pretty Damn Good
+- PEACE:	Goodbye
+- PEACE: OUT	Goodbye
+- PENG:	Good looking person
+- PGP:	Pretty Good Privacy (encryption)
+- POOL: SHARK	Good pool player
+- PRAWN:	Girl who is good looking except for her face
+- PRO: BONO	For (public) good (Latin)
+- SAFE:	Something or someone good
+- SAYONARA:	Goodbye (Japanese)
+- SFSG:	So Far So Good
+- SG2M:	Sounds Good To Me
+- SGTM:	Sounds Good To Me
+- SKUX:	A guy who's good with women
+- SLAN:	Goodbye
+- SO: SO	Neither good nor bad, average
+- SOUND:	Cool, awesome, good
+- STUNNER:	Good looking person
+- SWOLE:	Muscular, in good shape
+- TAGL:	There's a good lad
+- TASTY:	Good looking & Cool, awesome
+- TATA:	Goodbye
+- TDG:	Too Damn Good & Three Days Grace (band)
+- TG:	Thank God & Transgender & Too Good
+- TGTBT:	Too Good To Be True
+- TIDY:	Cool, good
+- TOODLE:	Goodbye, toodle-pip:
+- TOOTLES:	See you later, goodbye
+- TOUCHE:	Said when admitting opponent has made a good point
+- VG:	Video Game & Very Good
+- VGC:	Very Good Condition
+- VGG:	Very Good Game
+- VGL:	Very Good Looking
+- WENG:	Good looking
+- YRG:	You Are Good!
+- YUM:	Said when something tastes good or is attractive
